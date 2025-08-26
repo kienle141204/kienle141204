@@ -2,7 +2,7 @@
 
 Hi! I'm **Le Trung Kien** 🎓. I'm studying Computer Science at **Hanoi University of Science and Technology (HUST)**. I love **Artificial Intelligence** and especially big language models 🤖.
 
-## Skills:
+## 💻 Skills:
 
 #### Languages:
 
